@@ -9,8 +9,8 @@
 
 1出自[Qt实战6.万能的无边框窗口（FramelessWindow） - Qt小罗 - 博客园](https://www.cnblogs.com/luoxiang/p/13528745.html)
 
-![img](https://img2020.cnblogs.com/blog/681105/202008/681105-20200819194107607-1352819019.gif)
+![img](./README.assets/681105-20200819194107607-1352819019.gif)
 
-2由
+2由[实现qt 窗口无边框拖拽 - haoyouxiaoju - 博客园](https://www.cnblogs.com/hyxj/p/18537865/framelessWidget)
 
-![20241110_112446](./../../FFOutput/20241110_112446.gif)
+![20241110_112446](./README.assets/20241110_112446.gif)
